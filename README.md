@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lashirley21
+- 👋 Hi, I am SHirley, from Team Kinect with Tendenci & Schipul Factory Productions
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Cybersecurity 
 - 💞️ I’m looking to collaborate on Tendenci projects
 - 📫 How to reach me https://www.linkedin.com/in/shirley-marie-rodriguez/
 
