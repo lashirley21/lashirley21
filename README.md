@@ -1,7 +1,6 @@
 - 👋 Hi, I am SHirley, from Tendenci & a Schipul Factory Productions
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning Cybersecurity 
-- 💞️ I’m looking to collaborate on Tendenci projects
+- 🤓 Estoy aprendiendo Python.
+- 🐾 Tendenci #1 CMS, MMS, AMS https://github.com/tendenci/tendenci
 - 📫 How to reach me https://www.linkedin.com/in/shirley-marie-rodriguez/
 
 <!---
